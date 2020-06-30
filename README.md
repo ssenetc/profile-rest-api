@@ -1,3 +1,3 @@
 # Profile Rest API
 
-Profile rest API  tut
+Basic CRUD application for creating, managing user and their user profile Feed
